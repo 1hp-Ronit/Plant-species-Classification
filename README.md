@@ -1,2 +1,2 @@
-# Plant--species-Classification
+# Plant-species-Classification
 Simple Machine learning application
